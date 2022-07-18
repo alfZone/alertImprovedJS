@@ -1,3 +1,10 @@
+/**
+ * @author alf
+ * @copyright 2022
+ * @ver 1.0
+ */
+
+
 if(document.getElementById) {
     window.alert = function(txt) {
         alertI(txt);
